@@ -1,4 +1,5 @@
-sibbell-issues
+Issue tracking for all things [Sibbell](https://sibbell.com/) related.
 ==============
 
-Used only for issue tracking for Sibbell.
+### [Sibbell.com](https://sibbell.com/)
+### [Sibbell Chrome extension](https://chrome.google.com/webstore/detail/sibbell/focknnclhinffehmdpokckjahcfaldac)
